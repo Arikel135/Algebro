@@ -35,7 +35,7 @@ while condition:
 The `for` loop iterates over a range of numbers:
 ```
 for v in range(start, end):
-# action
+    #action
 ```
 ### 2.3 Loop Control Statements
 
@@ -50,11 +50,11 @@ for v in range(start, end):
 Algebro provides `try-except` blocks for handling exceptions:
 ```
 try:
-# code that might raise an error
+    #code that might raise an error
 except ZeroDivisionError:
-print("Cannot divide by zero")
+    print("Cannot divide by zero")
 except:
-print("An error occurred")
+    print("An error occurred")
 ```
 
 ## 3. Functions
@@ -71,10 +71,10 @@ f(x) = operation
 General-purpose functions are defined using the `func` keyword:
 ```
 func(y):
-# action
-x = y²
-print(y, x)
-return x
+    #action
+    x = y²
+    print(y, x)
+    return x
 ```
 
 ## 4. Operators
