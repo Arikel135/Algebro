@@ -70,12 +70,14 @@ f(x) = operation
 
 General-purpose functions are defined using the `func` keyword:
 ```
-func(y):
+func square(y):
     #action
     x = y²
     print(y, x)
     return x
 ```
+
+### 3.3 
 
 ## 4. Operators
 
