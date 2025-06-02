@@ -77,8 +77,6 @@ func square(y):
     return x
 ```
 
-### 3.3 
-
 ## 4. Operators
 
 ### 4.1 Arithmetic Operators
